@@ -4,6 +4,6 @@ source 'https://rubygems.org'
 gemspec name: 'mongoid_paranoia'
 
 gem 'rake'
-gem 'mongoid', '>= 4.0.0'
+gem 'mongoid', '~> 5.0.0.beta'
 
 gem 'rspec', '~> 3.0.0'
